@@ -9,13 +9,17 @@
 ### 🔰We can track data of specific country:
 ![2](https://user-images.githubusercontent.com/44981613/89117447-9448e700-d4bb-11ea-9293-2917fc4d1174.jpg)
 
+### 🔰Demo:On Selecting India:
 ![3](https://user-images.githubusercontent.com/44981613/89117453-a1fe6c80-d4bb-11ea-905a-a249c2251193.jpg)
 
+### 🔰Demo:On Selecting Mexico:
 ![4](https://user-images.githubusercontent.com/44981613/89117455-a62a8a00-d4bb-11ea-8798-bfb08aaab390.jpg)
 
-### 🔰Global Graphs section:
+### 🔰Global Graphs section
+### 🔰Global cases in regions:
 ![5](https://user-images.githubusercontent.com/44981613/89117458-aaef3e00-d4bb-11ea-89d5-2cd67c9ba8fd.jpg)
 
+### 🔰Major hotspot regions of covid pandemic:
 ![6](https://user-images.githubusercontent.com/44981613/89117459-afb3f200-d4bb-11ea-991a-e20e506c07d0.jpg)
 
 ![7](https://user-images.githubusercontent.com/44981613/89117465-b6426980-d4bb-11ea-8106-ef7858b7b5d3.jpg)
