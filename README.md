@@ -26,7 +26,7 @@
 
 ![8](https://user-images.githubusercontent.com/44981613/89117471-ba6e8700-d4bb-11ea-8757-92641149763f.jpg)
 
-### 🔰Track India section:
+### 🔰Track India:
 ![9](https://user-images.githubusercontent.com/44981613/89117475-c0646800-d4bb-11ea-857f-da9d418f57bf.jpg)
 
 ![10](https://user-images.githubusercontent.com/44981613/89117480-c4908580-d4bb-11ea-9620-68b72ab22a04.jpg)
