@@ -21,8 +21,7 @@ public class GlobalGraphs extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
         webView.loadUrl("https://covid19.who.int/?gclid=Cj0KCQjwpZT5BRCdARIsAGEX0zkFKder5Q7nj3kDZk-PZsiAUT3n-C4QVGSq4A2vhPpZ9GVZ8Chjz6gaArKPEALw_wcB");
 
-        WebSettings webSettings = webView.getSettings();
-        webSettings.setJavaScriptEnabled(true);
+        
     }
 
     @Override
