@@ -20,8 +20,7 @@ public class TrackIndia extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
         webView.loadUrl("https://www.worldometers.info/coronavirus/country/india/");
 
-        WebSettings webSettings = webView.getSettings();
-        webSettings.setJavaScriptEnabled(true);
+        
     }
 
     @Override
