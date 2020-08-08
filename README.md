@@ -16,7 +16,7 @@
 ![4](https://user-images.githubusercontent.com/44981613/89117455-a62a8a00-d4bb-11ea-8798-bfb08aaab390.jpg)
 
 ### 🔰Global Graphs section
-### 🔰Global cases in regions:
+### 🔰Global cases in the regions:
 ![5](https://user-images.githubusercontent.com/44981613/89117458-aaef3e00-d4bb-11ea-89d5-2cd67c9ba8fd.jpg)
 
 ### 🔰Major hotspot regions of covid pandemic:
