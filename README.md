@@ -19,7 +19,7 @@
 ### 🔰Global cases in the regions:
 ![5](https://user-images.githubusercontent.com/44981613/89117458-aaef3e00-d4bb-11ea-89d5-2cd67c9ba8fd.jpg)
 
-### 🔰Major hotspot regions of covid pandemic:
+### 🔰Major hotspot regions the of covid pandemic:
 ![6](https://user-images.githubusercontent.com/44981613/89117459-afb3f200-d4bb-11ea-991a-e20e506c07d0.jpg)
 
 ![7](https://user-images.githubusercontent.com/44981613/89117465-b6426980-d4bb-11ea-8106-ef7858b7b5d3.jpg)
