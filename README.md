@@ -6,7 +6,7 @@
 ### 🔰Implemented using REST API
 ![3c736b2de3802e0b5ec534b5c9ea94e8](https://user-images.githubusercontent.com/44981613/89117295-4da6bd00-d4ba-11ea-9dde-fcc0cb0b9a73.jpg)
 
-### 🔰We can also track data of specific country:
+### 🔰We can also track the data of specific country:
 ![2](https://user-images.githubusercontent.com/44981613/89117447-9448e700-d4bb-11ea-9293-2917fc4d1174.jpg)
 
 ### 🔰Demo:On Selecting India:
